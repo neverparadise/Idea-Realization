@@ -1,0 +1,2 @@
+INFO:root:input: 3 4, output=7
+INFO:root:input: 3 4, output=7
